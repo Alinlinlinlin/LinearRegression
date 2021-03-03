@@ -104,7 +104,7 @@ plt.show()
 ```
 
 
-![png](output_8_0.png)
+![png](./LinearRegression/image/下载1.png)
 
 
 
@@ -210,7 +210,7 @@ plt.show()
 ```
 
 
-![png](https://raw.githubusercontent.com/Alinlinlinlin/LinearRegression/master/LinearRegression/image/%E4%B8%8B%E8%BD%BD2.png)
+![png](./LinearRegression/image/下载2.png)
 
 
 ### 3.训练模型
@@ -461,7 +461,7 @@ plt.show()
 ```
 
 
-![png](https://raw.githubusercontent.com/Alinlinlinlin/LinearRegression/master/LinearRegression/image/%E4%B8%8B%E8%BD%BD3.png)
+![png](./LinearRegression/image/下载3.png)
 
 
 ### 4.模型评估
